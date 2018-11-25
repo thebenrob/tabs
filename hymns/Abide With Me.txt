@@ -1,3 +1,5 @@
+[Chords]
+
    C  Am F  Dm G  G7
 |--0--0--1--1--3--1--|
 |--1--1--1--3--3--0--|
@@ -6,51 +8,47 @@
 |--3--0--3--0--2--2--|
 |--3--0--1-----3--3--|
 
--------
-Verse 1
--------
 
-> C          Am       F             C
-  Abide with me, fast falls the eventide
+[Verse 1]
 
-> C            F        Dm            G
-  The darkness deepens, Lord with me abide.
+C          Am       F             C
+Abide with me, fast falls the eventide
 
-> C          Am      F                 Dm
-  When other helpers fail and comforts flee,
+C            F        Dm            G
+The darkness deepens, Lord with me abide.
 
-> G           C         Am     C    G7   C
-  Help of the helpless, Lord, abide with me.
+C          Am      F                 Dm
+When other helpers fail and comforts flee,
 
--------
-Verse 2
--------
-
-> C            Am         F                 C
-  Swift to its close ebbs out life’s little day.
-
-> C                 F        Dm           G
-  Earth’s joys grow dim; its glories pass away.
-
-> C            Am     F            Dm
-  Change and decay in all around I see;
-
-> G          C        Am    C    G7   C
-  O thou who changest not, abide with me!
+G           C         Am     C    G7   C
+Help of the helpless, Lord, abide with me.
 
 
--------
-Verse 3
--------
+[Verse 2]
 
-> C          Am       F             C
-  I need thy presence ev’ry passing hour.
+C            Am         F                 C
+Swift to its close ebbs out life’s little day.
 
-> C            F         Dm                 G
-  What but thy grace can foil the tempter’s pow’r?
+C                 F        Dm           G
+Earth’s joys grow dim; its glories pass away.
 
-> C            Am       F                  Dm
-  Who, like thyself, my guide and stay can be?
+C            Am     F            Dm
+Change and decay in all around I see;
 
-> G              C         Am     C    G7   C
-  Thru cloud and sunshine, Lord, abide with me!
+G          C        Am    C    G7   C
+O thou who changest not, abide with me!
+
+
+[Verse 3]
+
+C          Am       F             C
+I need thy presence ev’ry passing hour.
+
+C            F         Dm                 G
+What but thy grace can foil the tempter’s pow’r?
+
+C            Am       F                  Dm
+Who, like thyself, my guide and stay can be?
+
+G              C         Am     C    G7   C
+Thru cloud and sunshine, Lord, abide with me!
