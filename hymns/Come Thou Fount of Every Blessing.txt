@@ -1,12 +1,12 @@
 [Chords]
 
-   D  A  Asus  G  Bm
-|--2--0--0-----3--2--|
-|--3--2--3-----3--3--|
-|--2--2--2-----0--4--|
-|--0--2--2-----0--4--|
-|-----0--0-----2--2--|
-|-----0--0-----3--2--|
+   D  A  A2 Asus  G  Bm
+|--2--0--0--0-----3--2--|
+|--3--2--0--3-----3--3--|
+|--2--2--2--2-----0--4--|
+|--0--2--2--2-----0--4--|
+|-----0--0--0-----2--2--|
+|-----0--0--0-----3--2--|
 
 [Verse 1]
           D              Asus    A            G        A        D
@@ -15,7 +15,7 @@ Come thou fount of every bless - ing, tune my heart to sing thy praise.
            D            Asus   A             G        A       D
 Streams of mercy, never ceas - ing, call for songs of loudest praise.
 
-         Bm             D               Bm              Bm=>A
+         Bm             A  D            Bm              Asus=>A
 Teach me some melodious sonnet, sung by flaming tongues above.
 
            D                  Asus  A            G     A       D
