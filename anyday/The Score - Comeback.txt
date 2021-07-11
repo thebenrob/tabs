@@ -1,4 +1,7 @@
-This song was transposed from Db to C.  If you want to go back to the original (tortured bar chords) make the following swaps:
+Comeback - The Score
+--
+
+This song was transposed from Db to C.  If you want to go back to the original (all torturous bar chords) make the following swaps:
 - C => Db
 - E => Fm
 - Am => Bbm
