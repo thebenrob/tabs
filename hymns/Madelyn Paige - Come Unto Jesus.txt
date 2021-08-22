@@ -1,67 +1,68 @@
 Come Unto Jesus - Madelyn Paige
 --
 
+
 [Chords]
-   G  D  C  Cadd9
-|--3--2--0--0-----|
-|--3--3--1--3-----|
+   E  B  A  Aadd9
 |--0--2--0--0-----|
-|--0--0--2--2-----|
-|--2-----3--3-----|
-|--3-----3--0-----|
+|--1--2--0--0-----|
+|--2--4--2--2-----|
+|--2--4--2--4-----|
+|--0--4--2--2-----|
+|--0--2--0--0-----|
 
 [Verse 1]
-           G              D
+           E              B
 Come unto Jesus, ye heavy laden
-              C                Cadd9
+              A                 Aadd9
 Care-worn and fainting, by sin oppressed.
-             G                   D
+             E                   B
 He'll safely guide you unto that haven
-              C                G
+              A                 E
 Where all who trust in him may rest.
  
 [Verse 2]
-           G                D
+           E                B
 Come unto Jesus; He'll ever heed you,
-              C                    Cadd9
+              A                     Aadd9
 Though in the darkness you've gone astray.
-              G                   D
+              E                   B
 His love will find you and gently lead you
-             C          G
+             A           E
 From darkest night into day
- 
+
 [Chorus]
-          C                    G   D
+          A                    E
 Come unto Jesus, plead for his love
-              C                      D
+              A                       B
 And know that angels are near you up above.
- 
+
 [Verse 3]
-          G                D
-Come unto Jesus from ev'ry nation
-           C                    Cadd9
-From ev'ry land and isle of the sea.
-         G                 D
+          E                B
+Come unto Jesus from every nation
+           A                     Aadd9
+From every land and isle of the sea.
+         E                 B
 Unto the high and lowly in station
-        C                 G
+        A                  E
 Ever he calls, "Come unto me."
- 
+
 [Chorus]
-          C                    G   D
+          A                    E
 Come unto Jesus, plead for his love
-              C                      D
+              A                       B
 And know that angels are near you up above.
- 
+
 [Verse 4]
-          G               D
+          E               B
 Come unto Jesus, ye heavy laden
-              C                Cadd9
+              A                 Aadd9
 Care-worn and fainting, by sin oppressed.
-             G                   D
+             E                   B
 He'll safely guide you unto that haven
               C
 Where all who trust him
-              Cadd9
+              Aadd9
 Where all who trust him
-              C        D       G
+              A         B        E
 Where all who trust in him may rest.
